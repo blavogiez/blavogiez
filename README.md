@@ -2,5 +2,5 @@
 
 Mon site : [blavogiez.github.io](https://blavogiez.github.io)
 
-Mon projet OpenLaTeX: [openlatex.github.io](https://openlatex.github.io) | [Le dépôt](https://github.com/OpenLaTeX/openlatex.github.io)
+Mon projet OpenLaTeX : [openlatex.github.io](https://openlatex.github.io) | [Le dépôt](https://github.com/OpenLaTeX/openlatex.github.io)
 
