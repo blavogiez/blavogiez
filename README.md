@@ -1,4 +1,4 @@
-Étudiant en deuxième année de BUT Informatique, admis ingénieur Centrale Lille IG2I pour 2026, à la recherche d'une alternance DevOps / SRE pour septembre 2026.
+Étudiant en deuxième année de BUT Informatique, admis ingénieur UTC pour 2026, je suis à la recherche d'une alternance DevOps / SRE pour septembre 2026.
 
 Mon site : [blavogiez.github.io](https://blavogiez.github.io)
 
