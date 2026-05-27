@@ -1,10 +1,10 @@
 Étudiant en deuxième année de BUT Informatique, admis en cycle ingénieur à l’UTC pour 2026.
 
-**Note 26 mai 2026 : La connexion réseau de mon immeuble a crash donc le serveur Proxmox est inaccessible, je suis à distance donc ce sera down jusque ce soir, je mets les fallback vers GitHub Pages pour ce qui est possible**
-
 - Mon site : [blavogiez.github.io](https://blavogiez.github.io)
 - Mon projet OpenLaTeX : [Le dépôt](https://github.com/OpenLaTeX/openlatex.github.io) | [openlatex.github.io](https://openlatex.github.io)
-- Ma configuration Proxmox (hébergement local) : [Le dépôt](https://github.com/blavogiez/proxmox-configuration) 
+- Ma configuration Proxmox (hébergement local) : [Le dépôt](https://github.com/blavogiez/proxmox-configuration) | [portal.blavogiez.fr](https://portal.blavogiez.fr)
+
+**Note 26 mai 2026 : Il y a eu des coupures électriques / réseau (chaleur) dans mon immeuble : mon serveur Proxmox et les services auto-hébergés étaient inaccessibles et irréparables à distance de 10h30 à 17h30. Retour à la normale depuis.**
 
 J’organise mon travail avec une méthodologie agile, sous forme de sprints mensuels, en utilisant notamment un tableau Kanban public dédié à mes projets visibles.
 
