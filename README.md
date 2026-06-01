@@ -2,7 +2,7 @@
 
 - Mon site : [blavogiez.github.io](https://blavogiez.github.io)
 - Mon projet OpenLaTeX : [Le dépôt](https://github.com/OpenLaTeX/openlatex.github.io) | [openlatex.github.io](https://openlatex.github.io)
-- Ma configuration Proxmox (hébergement local) : [Le dépôt](https://github.com/blavogiez/proxmox-configuration) | [portal.blavogiez.fr](https://portal.blavogiez.fr)
+- Ma configuration Proxmox (hébergement local) : [Le dépôt](https://github.com/blavogiez-org/proxmox-configuration) | [portal.blavogiez.fr](https://portal.blavogiez.fr)
   
 J’organise mon travail avec une méthodologie agile, sous forme de sprints mensuels, en utilisant notamment un tableau Kanban public dédié à mes projets visibles.
 
