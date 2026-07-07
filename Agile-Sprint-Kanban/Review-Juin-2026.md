@@ -1,8 +1,6 @@
 # Review du [sprint de Juin 2026](https://kanban.blavogiez.fr/public/board/2ac60474026e68fb16da9fc1b0a2ff9d0f54cd9e76224b62cbc9aab56708)
 
-TD: en écriture au 2 juillet 2026, finalisation le 3 juillet max
 TD: liens à remplir
-TD: clean les espaces introduits par Vim
 
 Ce sprint est le deuxième de mon organisation de projets personnels, couvrant tout le mois de juin. 
 Il s'inscrit dans une stabilisation et application des [améliorations remarquées pour le sprint précédent](Review-Mai-2026.md) (Cette première review de Mai 2026 donne également le cadre de mon organisation et les principes que je suis).
@@ -31,11 +29,12 @@ Cela dit, on s'attendait à cela en utilisant OpenBao / HashiCorp Vault, car il 
 ## Points d'amélioration
 
 En résumé, voici les points d'améliorations que j'ai remarqué :
-
+- la documentation est présente mais elle prend un temps significatif à écrire. Une idée serait d'utiliser de la diction vocale / enregistrer en vidéo pour mieux expliquer, et plus rapidement (la diction fait environ 500 mots par minute contre 120 au clavier)
+- à la fin de chaque ticket, noter en quelques lignes les points les plus importants qui ont été appris / qui m'étaient inconnus, et possiblement les injecter en flashcards anki pour les mémoriser au long terme
 
 ## Victoires
 
-En résumé, voici les améliorations que j'ai remarqué :
+En résumé, voici les améliorations que j'ai appliqué :
 - j'ai passé plus de temps à la planification / recherche de la meilleure solution, en passant d'environ 15% du temps d'un ticket à environ 25% aujourd'hui, comme le préconisait la précédente revue pour Mai 2026
 - les tâches étaient bien définies dès le début et je n'ai pas eu à en rajouter entre temps, les besoins ont donc été assez bien prévus
 
