@@ -6,6 +6,6 @@
   
 J’organise mon travail avec une méthodologie agile, sous forme de plannings mensuels, en utilisant notamment un tableau Kanban public dédié à mes projets personnels visibles.
 
-Consultez mon planning de juillet 2026 : [Kanboard, juillet 2026](https://kanban.blavogiez.fr/public/board/df18641a843ec3cf86d8f96d5ce9ce4ba7839490f53476b761337c943ccb) 
+Consultez mon planning de 3 mois (Sep -> Dec 2026) : [Kanboard, Sep -> Dec 2026](https://kanban.blavogiez.fr/public/board/e3c21c473010411e798205558ba5e05e8260387a570101a448e46cae64f4) 
 
 Consultez [les plannings précédents et leurs revues](Agile-Planning-Kanban/README.md), où je résume les réalisations et note mes points d'amélioration.

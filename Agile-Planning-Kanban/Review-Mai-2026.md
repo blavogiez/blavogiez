@@ -44,4 +44,4 @@ En résumé, voici les améliorations que j'ai remarqué :
 
 On embarque directement sur le [planning de Juin](https://kanban.blavogiez.fr/public/board/2ac60474026e68fb16da9fc1b0a2ff9d0f54cd9e76224b62cbc9aab56708), avec cette fois comme thème [un projet réalisé en binôme, le Homelab Proxmox où nous sommes désormais deux avec Jonas Facon](https://github.com/jobacogiez-org/proxmox-gitops).
 
-Review du planning de Juin : (lien une fois réalisée)
+Review du planning de Juin : [Consulter la revue](Review-Juin-2026.md)

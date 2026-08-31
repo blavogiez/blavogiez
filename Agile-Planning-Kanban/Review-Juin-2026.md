@@ -44,3 +44,5 @@ Je prévois de continuer sur le sujet Proxmox. Pour les implémentations précis
 Je prévois également de finaliser mon projet OpenLaTeX, notamment au niveau de l'infrastructure. En effet il y a 3 mois je pensais que l'infrastructure était bonne, mais avec mon regard d'aujourd'hui et ce que j'ai appris depuis, notamment sur Kubernetes (par les entraînements CKA/CKAD), je trouve qu'il y a des choses à revoir (par exemple faire plus de NetworkPolicy, de health / liveness probes, de limites de ressources clairement définies) et le niveau actuel de l'infrastructure ne me convient plus.
 
 Ce planning sera plus léger puisque pour ce mois-ci je serai plus occupé à d'autres sujets externes à l'informatique.
+ 
+Review du planning de Juillet : [Consulter la revue](Review-Juillet-2026.md)
