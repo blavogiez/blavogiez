@@ -1,11 +1,13 @@
-Étudiant en deuxième année de BUT Informatique, admis en cycle ingénieur à l’UTC pour 2026.
+DevOps Engineer apprentice @ [Airbus PSS](https://www.criticalcommunications.airbus.com/en) | CS Engineering student at [UTC](https://www.utc.fr/en/)
 
-- Mon site : [blavogiez.github.io](https://blavogiez.github.io)
-- Mon projet personnel OpenLaTeX : [Le dépôt](https://github.com/OpenLaTeX/openlatex.github.io) | [openlatex.github.io](https://openlatex.github.io)
-- Notre projet personnel Homelab Proxmox GitOps en binôme (hébergement local) : [Le dépôt](https://github.com/jobacogiez-org/proxmox-gitops) | [Suivi des incidents d'hébergement](Statut-Proxmox/Historique-Incidents-Infra-Personnelle.md)
+- Visit my website: [blavogiez.fr](https://blavogiez.fr)
+- Visit OpenLaTeX, a personal project focused on collaborative report writing: [Repository](https://github.com/OpenLaTeX/openlatex.github.io) | [openlatex.blavogiez.fr](https://openlatex.blavogiez.fr)
+- Visit my Proxmox / Kubernetes / ArgoCD self-hosting GitOps platform, which I use for all my projects, built on a shared base with [Jonas Facon](https://jonas-facon.dev): [Repository](https://github.com/blavogiez-org/proxmox-configuration)
   
-J’organise mon travail avec une méthodologie agile, sous forme de plannings mensuels, en utilisant notamment un tableau Kanban public dédié à mes projets personnels visibles.
+These projects are organized using Kanban plannings to optimize the time spent on them.
+- Visit my current 3-month planning (Sep -> Dec 2026): [Kanboard, Sep -> Dec 2026](https://kanban.blavogiez.fr/public/board/e3c21c473010411e798205558ba5e05e8260387a570101a448e46cae64f4) 
+- Visit [my previous plannings and their reviews](Agile-Planning-Kanban/README.md), where I summarize completed work and note areas for improvement.
 
-Consultez mon planning de 3 mois (Sep -> Dec 2026) : [Kanboard, Sep -> Dec 2026](https://kanban.blavogiez.fr/public/board/e3c21c473010411e798205558ba5e05e8260387a570101a448e46cae64f4) 
+Contact: [baptiste.lavogiez@proton.me](mailto:baptiste.lavogiez@proton.me)
 
-Consultez [les plannings précédents et leurs revues](Agile-Planning-Kanban/README.md), où je résume les réalisations et note mes points d'amélioration.
+Avatar taken in Sluis, Netherlands :)
